@@ -1,5 +1,5 @@
 
-> Open this page at [https://petrik-petr.github.io/pxt-button-is-pressed/](https://petrik-petr.github.io/pxt-button-is-pressed/)
+> Open this page at [https://petrik-petr.github.io/pxt-button-is-pressed/](https://petrik-petr.github.io/onButtonPress)
 
 ## Use as Extension
 
