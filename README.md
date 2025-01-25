@@ -1,5 +1,5 @@
 
-> Open this page at [https://petrik-petr.github.io/pxt-button-is-pressed/](https://petrik-petr.github.io/onButtonPress)
+> Open this page at [https://petrik-petr.github.io/pxt-button-is-pressed/]
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/petrik-petr/onButtonPress** and import
+* search for **(https://petrik-petr.github.io/pxt-button-is-pressed/)** and import
 
 ## Edit this project
 
